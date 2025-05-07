@@ -1,0 +1,14 @@
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\SerializeUserApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\SerializeUserApp.AssemblyInfoInputs.cache
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\SerializeUserApp.AssemblyInfo.cs
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\SerializeUserApp.csproj.CoreCompileInputs.cache
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\bin\Debug\net8.0\SerializeUserApp.exe
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\bin\Debug\net8.0\SerializeUserApp.deps.json
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\bin\Debug\net8.0\SerializeUserApp.runtimeconfig.json
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\bin\Debug\net8.0\SerializeUserApp.dll
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\bin\Debug\net8.0\SerializeUserApp.pdb
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\SerializeUserApp.dll
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\refint\SerializeUserApp.dll
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\SerializeUserApp.pdb
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\SerializeUserApp.genruntimeconfig.cache
+C:\Users\rabdu\source\repos\SerializeUserApp\SerializeUserApp\obj\Debug\net8.0\ref\SerializeUserApp.dll
